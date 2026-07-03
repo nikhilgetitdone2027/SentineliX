@@ -1,0 +1,6 @@
+{
+  "name": "SentinelX AI",
+  "description": "An AI-powered Cyber Resilience Platform for live deep packet inspection, MITRE ATT&CK mapping, behavioral baseline anomaly detection, and automated playbook orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
